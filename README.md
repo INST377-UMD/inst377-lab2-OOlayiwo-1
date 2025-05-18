@@ -2,5 +2,6 @@
 # INST377-Lab
 
 # Name (Please Input your name):
-
+Opeyemi Olayiwola
 # Comments: 
+Lab 2 submission and html file is in the .github folder
